@@ -1,0 +1,63 @@
+---
+title: "À propos"
+format: html
+execute:
+  enabled: false
+---
+
+## À propos du projet
+
+Ce projet présente une **analyse climatique** basée sur les données de la station  
+**Kairouan Sbikha (DGACTA)**.
+
+Il s’inscrit dans un cadre :
+- académique (analyse BI / data)
+- environnemental
+- décisionnel
+
+---
+
+## Objectifs du site
+
+- Centraliser les données climatiques
+- Visualiser les tendances (température, pluviométrie, humidité)
+- Fournir un support d’aide à la décision
+- Présenter les résultats de manière interactive
+
+---
+
+## Données utilisées
+
+Les données proviennent de fichiers CSV et d’un notebook d’analyse :
+
+- Données environnementales
+- Pluviométrie
+- Humidité du sol (10 cm et 30 cm)
+
+Toutes les analyses détaillées sont disponibles dans la section **Analyse**.
+
+---
+
+## Outils et technologies
+
+- Python (analyse du notebook)
+- Jupyter Notebook
+- Quarto (site statique)
+- Vercel (hébergement)
+
+---
+
+## Auteur
+
+Projet réalisé par :
+
+**Latrach Teycir**  
+Étudiant(e) en  intelligence artificielle /data sciences 
+Tunisie 🇹🇳
+
+---
+
+## Contact
+
+📧 Email : teycir.latrach@polytechnicien.tn  
+🌐 GitHub : https://github.com/teycirlatrach

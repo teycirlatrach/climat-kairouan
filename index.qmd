@@ -1,0 +1,32 @@
+---
+title: "Analyse Climat – Station Climatique Kairouan Sbikha (DGACTA)"
+format: html
+---
+
+## Contexte de l’étude
+
+Analyse des données climatiques issues de la station **Kairouan Sbikha**.
+
+Objectifs :
+- Analyse descriptive
+- Visualisation des tendances
+- Aide à la décision environnementale
+
+---
+
+## Analyse détaillée (Notebook)
+
+<iframe
+  src="climat.html"
+  width="100%"
+  height="900px"
+  style="border:none;">
+</iframe>
+
+---
+
+## Conclusion
+
+- Analyse climatique complète
+- Données fiables et exploitables
+- Base solide pour études futures

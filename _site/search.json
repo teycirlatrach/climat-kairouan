@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "À propos",
+    "section": "",
+    "text": "Ce projet présente une analyse climatique basée sur les données de la station\nKairouan Sbikha (DGACTA).\nIl s’inscrit dans un cadre : - académique (analyse BI / data) - environnemental - décisionnel"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Analyse Climat – Station Climatique Kairouan Sbikha (DGACTA)",
+    "section": "",
+    "text": "Analyse des données climatiques issues de la station Kairouan Sbikha.\nObjectifs : - Analyse descriptive - Visualisation des tendances - Aide à la décision environnementale"
+  },
+  {
+    "objectID": "index.html#contexte-de-létude",
+    "href": "index.html#contexte-de-létude",
+    "title": "Analyse Climat – Station Climatique Kairouan Sbikha (DGACTA)",
+    "section": "",
+    "text": "Analyse des données climatiques issues de la station Kairouan Sbikha.\nObjectifs : - Analyse descriptive - Visualisation des tendances - Aide à la décision environnementale"
+  },
+  {
+    "objectID": "index.html#analyse-détaillée-notebook",
+    "href": "index.html#analyse-détaillée-notebook",
+    "title": "Analyse Climat – Station Climatique Kairouan Sbikha (DGACTA)",
+    "section": "Analyse détaillée (Notebook)",
+    "text": "Analyse détaillée (Notebook)"
+  },
+  {
+    "objectID": "index.html#conclusion",
+    "href": "index.html#conclusion",
+    "title": "Analyse Climat – Station Climatique Kairouan Sbikha (DGACTA)",
+    "section": "Conclusion",
+    "text": "Conclusion\n\nAnalyse climatique complète\nDonnées fiables et exploitables\nBase solide pour études futures"
+  },
+  {
+    "objectID": "about.html#à-propos-du-projet",
+    "href": "about.html#à-propos-du-projet",
+    "title": "À propos",
+    "section": "",
+    "text": "Ce projet présente une analyse climatique basée sur les données de la station\nKairouan Sbikha (DGACTA).\nIl s’inscrit dans un cadre : - académique (analyse BI / data) - environnemental - décisionnel"
+  },
+  {
+    "objectID": "about.html#objectifs-du-site",
+    "href": "about.html#objectifs-du-site",
+    "title": "À propos",
+    "section": "Objectifs du site",
+    "text": "Objectifs du site\n\nCentraliser les données climatiques\nVisualiser les tendances (température, pluviométrie, humidité)\nFournir un support d’aide à la décision\nPrésenter les résultats de manière interactive"
+  },
+  {
+    "objectID": "about.html#données-utilisées",
+    "href": "about.html#données-utilisées",
+    "title": "À propos",
+    "section": "Données utilisées",
+    "text": "Données utilisées\nLes données proviennent de fichiers CSV et d’un notebook d’analyse :\n\nDonnées environnementales\nPluviométrie\nHumidité du sol (10 cm et 30 cm)\n\nToutes les analyses détaillées sont disponibles dans la section Analyse."
+  },
+  {
+    "objectID": "about.html#outils-et-technologies",
+    "href": "about.html#outils-et-technologies",
+    "title": "À propos",
+    "section": "Outils et technologies",
+    "text": "Outils et technologies\n\nPython (analyse du notebook)\nJupyter Notebook\nQuarto (site statique)\nVercel (hébergement)"
+  },
+  {
+    "objectID": "about.html#auteur",
+    "href": "about.html#auteur",
+    "title": "À propos",
+    "section": "Auteur",
+    "text": "Auteur\nProjet réalisé par :\nLatrach Teycir\nÉtudiant(e) en intelligence artificielle /data sciences Tunisie 🇹🇳"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "À propos",
+    "section": "Contact",
+    "text": "Contact\n📧 Email : exemple@email.com\n🌐 GitHub : https://github.com/ton-compte"
+  }
+]
