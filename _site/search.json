@@ -7,34 +7,6 @@
     "text": "Ce projet présente une analyse climatique basée sur les données de la station\nKairouan Sbikha (DGACTA).\nIl s’inscrit dans un cadre : - académique (analyse BI / data) - environnemental - décisionnel"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Analyse Climat – Station Climatique Kairouan Sbikha (DGACTA)",
-    "section": "",
-    "text": "Analyse des données climatiques issues de la station Kairouan Sbikha.\nObjectifs : - Analyse descriptive - Visualisation des tendances - Aide à la décision environnementale"
-  },
-  {
-    "objectID": "index.html#contexte-de-létude",
-    "href": "index.html#contexte-de-létude",
-    "title": "Analyse Climat – Station Climatique Kairouan Sbikha (DGACTA)",
-    "section": "",
-    "text": "Analyse des données climatiques issues de la station Kairouan Sbikha.\nObjectifs : - Analyse descriptive - Visualisation des tendances - Aide à la décision environnementale"
-  },
-  {
-    "objectID": "index.html#analyse-détaillée-notebook",
-    "href": "index.html#analyse-détaillée-notebook",
-    "title": "Analyse Climat – Station Climatique Kairouan Sbikha (DGACTA)",
-    "section": "Analyse détaillée (Notebook)",
-    "text": "Analyse détaillée (Notebook)"
-  },
-  {
-    "objectID": "index.html#conclusion",
-    "href": "index.html#conclusion",
-    "title": "Analyse Climat – Station Climatique Kairouan Sbikha (DGACTA)",
-    "section": "Conclusion",
-    "text": "Conclusion\n\nAnalyse climatique complète\nDonnées fiables et exploitables\nBase solide pour études futures"
-  },
-  {
     "objectID": "about.html#à-propos-du-projet",
     "href": "about.html#à-propos-du-projet",
     "title": "À propos",
@@ -74,6 +46,34 @@
     "href": "about.html#contact",
     "title": "À propos",
     "section": "Contact",
-    "text": "Contact\n📧 Email : exemple@email.com\n🌐 GitHub : https://github.com/ton-compte"
+    "text": "Contact\n📧 Email : teycir.latrach@polytechnicien.tn\n🌐 GitHub : https://github.com/teycirlatrach"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Analyse Climat – Station Climatique Kairouan Sbikha (DGACTA)",
+    "section": "",
+    "text": "Analyse des données climatiques issues de la station Kairouan Sbikha.\nObjectifs : - Analyse descriptive - Visualisation des tendances - Aide à la décision environnementale"
+  },
+  {
+    "objectID": "index.html#contexte-de-létude",
+    "href": "index.html#contexte-de-létude",
+    "title": "Analyse Climat – Station Climatique Kairouan Sbikha (DGACTA)",
+    "section": "",
+    "text": "Analyse des données climatiques issues de la station Kairouan Sbikha.\nObjectifs : - Analyse descriptive - Visualisation des tendances - Aide à la décision environnementale"
+  },
+  {
+    "objectID": "index.html#analyse-détaillée-notebook",
+    "href": "index.html#analyse-détaillée-notebook",
+    "title": "Analyse Climat – Station Climatique Kairouan Sbikha (DGACTA)",
+    "section": "Analyse détaillée (Notebook)",
+    "text": "Analyse détaillée (Notebook)"
+  },
+  {
+    "objectID": "index.html#conclusion",
+    "href": "index.html#conclusion",
+    "title": "Analyse Climat – Station Climatique Kairouan Sbikha (DGACTA)",
+    "section": "Conclusion",
+    "text": "Conclusion\n\nAnalyse climatique complète\nDonnées fiables et exploitables\nBase solide pour études futures"
   }
 ]
